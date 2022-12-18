@@ -1,4 +1,4 @@
-# 💻 **SOBRE O PROJETO**
+## 💻 **SOBRE O PROJETO**
 
 ### Aplicação desenvolvida em Node.js!
 
@@ -12,7 +12,7 @@ A aplicação é utilizada para gerenciar tarefas. Será permitida a cri
 
 Todas as ações são para cada usuário em específico (o `username` será passado pelo header).
 
-# 💻 **ROTAS DA APLICAÇÃO**
+## 💻 **ROTAS DA APLICAÇÃO**
 
 ### POST `/users`
 ### GET `/toDos`
@@ -21,7 +21,7 @@ Todas as ações são para cada usuário em específico (o `username` será pass
 ### PATCH `/toDos/:id/done`
 ### DELETE `/toDos/:id`
 
-# 💻 **TESTES**
+## 💻 **TESTES**
 
 ### **Utilizado *postman* ou *Insomnia* para testar os métodos da aplicação**
 
